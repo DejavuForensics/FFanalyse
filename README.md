@@ -1,5 +1,5 @@
 # FFanalyse
-Fast-Flux Analyse
+Fast-Flux Analysis
 
 # Theoretical background 
 
