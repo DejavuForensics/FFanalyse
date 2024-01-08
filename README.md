@@ -83,6 +83,9 @@ We are working on geolocalising IP addresses. This script provides information a
 ### Greenwich Meridian Timezone
 
 The term "Timezone" refers to the geographical location of the IP address's time zone. In this context, GMT (Greenwich Meridian Time)  acts as a central reference point. It represents the zero base value. The assignment of values to each time zone is determined by its distance from GMT.
+GMT rounding occurs when a certain region is placed in the wrong time zone. This can happen when states need to simplify or standardise time representation. They often do this to deal with practical or administrative issues.
+
+GMT may be rounded to fit the region into a specific time zone. Even if the geographical location suggests otherwise. This could be for reasons such as political, administrative, or local convenience. These roundings can lead to discrepancies in relation to geographical reality.
 Figure 3 illustrates the Greenwich Meridian timezones. 
 
 ![Illustration of the Greenwich Meridian timezones](https://github.com/DejavuForensics/FFanalyse/blob/main/Images/3.png)
