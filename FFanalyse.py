@@ -92,6 +92,8 @@ class ffanalyse():
 				flag = 1
 			except Timeout:
 				flag = 0
+			except:
+				flag = 0
 		
 		a_count = len(self.defaults['server']) #the number of IP addresses returned		
 		
