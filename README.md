@@ -145,3 +145,22 @@ Entropy represents the degree of randomness of information.
 - Number of digits in the 3LD;
 - Entropy of the 3LD.
 
+# Discussion
+
+The literature shows that malicious FFSN traffic's geographical distribution goes through emerging countries. Brazil is an example. In these countries, there's usually good infrastructure and web services. But public security institutions don't function properly. The institutions cannot identify cyber criminals, allowing them to operate freely. Developed countries concentrate benign servers. Mainly, they're in the United States and the United Kingdom.
+
+Figure 7 shows the malicious traffic of the Zeus botnet, which specialises in bank theft. The more decentralised the FFSN traffic, the greater the chances of it being a botnet. This is especially true if the traffic passes through emerging countries. The figure also shows the concentration of benign Google servers on the West Coast of the United States.  Although it contains the territorial division of the defunct Soviet Union, Figure 7 shows global malicious traffic in contemporary times.
+
+![Geographical distribution of malicious traffic and benign servers. Source: STALMANS, 2011.](https://github.com/DejavuForensics/FFanalyse/blob/main/Images/7.png)
+
+</center>
+
+**Figure 7**: Geographical distribution of malicious traffic and benign servers. Source: STALMANS, 2011.
+
+
+Our theoretical foundation and scripts draw inspiration from the research conducted by STALMA in 2011
+```
+B. STALMANS, E.; IRWIN. A framework for dns based detection and mitigation of malware
+infections on a network. IEEE Information Security South Africa (ISSA), 2011.
+```
+
