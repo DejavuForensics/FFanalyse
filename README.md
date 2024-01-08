@@ -57,9 +57,7 @@ python FFanalyse.py -d google.com
 ## Feature Description for Fast-Flux
 
 Data replication offers significant benefits for websites with high demand. It is also useful for websites with large volumes of data.  As a side-effect, this manoeuvre has come to be used in a devious way by botnets. One of the main techniques used by botnets is Fast-Flux.
-
 Fast-flux involves rapidly changing a domain's DNS records. This approach aims to make the servers of a website or online resource more elusive. It makes them more difficult to trace or block.
-
 The fast-flux process involves changing the IP addresses associated with a given domain name. This is achieved by rapidly replacing DNS records. This is usually done by associating the domain with a series of previously compromised IP addresses. These IP addresses can belong to infected computers, also known as "zombies" in a botnet.
 
 Fast-Flux extraction should catalogue the number of IP addresses linked to the audited domain. Server mirroring is a practice used by both legitimate and illegitimate servers. This observation is particularly relevant. Distributed denial of service attacks can coordinate multiple servers in a synchronized manner. This coordination can be exploited to promote industrial sabotage. It poses a significant threat to the integrity and operation of the target server. A thorough understanding of IP address characteristics contributes to cyber security. It also highlights the need for preventative strategies to counter potential coordinated attacks.
