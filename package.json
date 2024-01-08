@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "resolv-conf": "^1.0.3"
+  }
+}
